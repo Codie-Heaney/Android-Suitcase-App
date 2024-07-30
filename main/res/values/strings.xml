@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">SuitCase</string>
+    <string name="blogin_text">Login</string>
+    <string name="bregister_text">Register</string>
+    <string name="input_username">Username:</string>
+    <string name="input_password">Password:</string>
+    <string name="input_email">Email:</string>
+    <string name="input_password_confirm">Confirm Password:</string>
+    <string name="input_fullname">Full Name:</string>
+    <string name="bconfirmacc_text">Create Account</string>
+    <string name="bcreateitem_text">Create Item</string>
+    <string name="input_item_name">Item Name:</string>
+    <string name="input_item_description">Item Description:</string>
+    <string name="input_item_price">Item Price:</string>
+    <string name="switch_item_purchased">Has the item been purchased? </string>
+    <string name="bconfirm_text">Confirm Item</string>
+    <string name="bedit_text">Edit Item</string>
+    <string name="switch_purchased">Purchased</string>
+    <string name="delegate_text">Send as SMS</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="bmaptag">Add Geotag</string>
+    <string name="bconfirmgeo">Confirm Location</string>
+    <string name="welcome_text">Welcome to SuitCase</string>
+    <string name="login_text">Login to SuitCase</string>
+    <string name="register_text">Register for SuitCase</string>
+    <string name="edit_text">Item Editor</string>
+</resources>
